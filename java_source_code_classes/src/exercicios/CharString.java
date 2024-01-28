@@ -1,4 +1,4 @@
-package exercicios;
+package java_source_code_classes.src.exercicios;
 
 public class CharString {
  public static void main(String[] args) {
