@@ -1,4 +1,4 @@
-package leituraDados;
+package java_source_code_classes.src.leituraDados;
 
 import java.util.Scanner;
 
