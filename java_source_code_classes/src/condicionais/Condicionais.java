@@ -1,4 +1,4 @@
-package condicionais;
+package java_source_code_classes.src.condicionais;
 
 public class Condicionais {
  public static void main(String[] args) {
