@@ -13,5 +13,8 @@ public class Leitura {
   int idade = leitura.nextInt();
 
   System.out.println("Seu nome é: " + nome + " e vc tem " + idade + " anos");
+
+  leitura.close();
+  // Sempre bom fechar o scanner
  }
 }
