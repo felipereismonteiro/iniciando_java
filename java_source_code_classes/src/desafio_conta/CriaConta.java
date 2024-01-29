@@ -4,16 +4,16 @@ public class CriaConta {
     public static void main(String[] args) {
 
         Conta primeraConta = new Conta();
-        primeraConta.saldo = 200;
+        primeraConta.depositar(200);
 
         // System.out.println(primeraConta.saldo);
-        primeraConta.saldo += 100;
+        primeraConta.depositar(100);
 
         // System.out.println(primeraConta.saldo);
 
         Conta segundaConta = primeraConta;
 
-        segundaConta.saldo = 50;
+        segundaConta.depositar(50);;
 
         // System.out.println("Primeira conta tem o saldo de: " + primeraConta.saldo);
         // System.out.println("Segunda conta tem o saldo de: " + segundaConta.saldo);
@@ -21,11 +21,13 @@ public class CriaConta {
         Conta contaFelipe = new Conta();
         Conta contaGabriel = new Conta();
 
-        contaFelipe.deposita(100);
+        contaFelipe.depositar(100);
         contaFelipe.transfere(100, contaGabriel);
 
-        System.out.println(contaGabriel.saldo);
-        System.out.println(contaFelipe.saldo);
+        contaFelipe.setTitular(new Cliente());
 
+        contaFelipe.getTitular().setNome("Felipe");
+
+        System.out.println(contaFelipe.getTitular().getNome());
     }
 }
