@@ -1,4 +1,4 @@
-package variaveis_java;
+package java_source_code_classes.src.inicando_java.variaveis_java;
 
 public class Variaveis {
  public static void main(String[] args) {

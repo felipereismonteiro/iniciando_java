@@ -1,4 +1,4 @@
-package exercicios;
+package java_source_code_classes.src.inicando_java.exercicios;
 
 public class CalculateDiscount {
  public static void main(String[] args) {

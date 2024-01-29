@@ -1,4 +1,4 @@
-package java_source_code_classes.src.estruturas_repeticao;
+package java_source_code_classes.src.inicando_java.estruturas_repeticao;
 
 import java.util.Scanner;
 
