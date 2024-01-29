@@ -1,4 +1,4 @@
-package comments;
+package java_source_code_classes.src.inicando_java.comments;
 
 public class Comments {
  public static void main(String [] args) {

@@ -1,4 +1,4 @@
-package java_source_code_classes.src.condicionais;
+package java_source_code_classes.src.inicando_java.condicionais;
 
 public class Condicionais {
  public static void main(String[] args) {

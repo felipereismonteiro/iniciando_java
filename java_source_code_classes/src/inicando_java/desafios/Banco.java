@@ -1,4 +1,4 @@
-package java_source_code_classes.src.desafios;
+package java_source_code_classes.src.inicando_java.desafios;
 
 import java.util.Scanner;
 

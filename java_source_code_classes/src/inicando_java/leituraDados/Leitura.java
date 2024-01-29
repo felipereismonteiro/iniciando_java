@@ -1,4 +1,4 @@
-package java_source_code_classes.src.leituraDados;
+package java_source_code_classes.src.inicando_java.leituraDados;
 
 import java.util.Scanner;
 
