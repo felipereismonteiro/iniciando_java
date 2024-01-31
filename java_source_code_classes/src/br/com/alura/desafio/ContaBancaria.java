@@ -23,4 +23,8 @@ public class ContaBancaria {
     public double consultarSaldo() {
         return this.saldo;
     }
+
+    public double consultarSaldo(double valor) {
+        return this.saldo += valor;
+    }
 }
