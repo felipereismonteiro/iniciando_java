@@ -1,6 +1,6 @@
 package java_source_code_classes.src.br.com.alura.aplicando.oo;
 
-import java_source_code_classes.src.br.com.alura.desafio.ContaBancaria;
+import java_source_code_classes.src.br.com.alura.desafios.desafio1.ContaBancaria;
 
 public class Pessoa {
     public static void main(String[] args) {
