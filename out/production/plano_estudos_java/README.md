@@ -12,4 +12,4 @@ Plano de estudos
 
 ## Detalhes do Curso
 
-Formação em C dev Alura
+Formação em JAVA dev Alura
